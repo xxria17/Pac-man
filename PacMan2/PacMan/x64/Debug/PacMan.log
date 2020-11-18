@@ -1,0 +1,23 @@
+﻿  PacMan.cpp
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(407,51): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+PacMan.obj : error LNK2019: __imp_wglCreateContext"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_wglDeleteContext"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_wglMakeCurrent"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_wglUseFontBitmapsW"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glCallLists"void __cdecl DrawScore(float,float)" (?DrawScore@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glClear"void __cdecl DrawScene(struct HDC__ *)" (?DrawScene@@YAXPEAUHDC__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glClearColor"void __cdecl DrawScene(struct HDC__ *)" (?DrawScene@@YAXPEAUHDC__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glColor3f"void __cdecl DrawItem(void)" (?DrawItem@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glDeleteLists"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glDisable"void __cdecl DrawMaze(void)" (?DrawMaze@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glEnable"void __cdecl DrawMaze(void)" (?DrawMaze@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glListBase"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glLoadIdentity"void __cdecl DrawScene(struct HDC__ *)" (?DrawScene@@YAXPEAUHDC__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glMatrixMode"void __cdecl DrawScene(struct HDC__ *)" (?DrawScene@@YAXPEAUHDC__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glOrtho"void __cdecl Resize(int,int)" (?Resize@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glPolygonMode"void __cdecl DrawItem(void)" (?DrawItem@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glPolygonStipple"void __cdecl DrawMaze(void)" (?DrawMaze@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glRasterPos2f"void __cdecl DrawScore(float,float)" (?DrawScore@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glRectf"void __cdecl DrawItem(void)" (?DrawItem@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+PacMan.obj : error LNK2019: __imp_glViewport"void __cdecl Resize(int,int)" (?Resize@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\x64\Debug\PacMan.exe : fatal error LNK1120: 20개의 확인할 수 없는 외부 참조입니다.

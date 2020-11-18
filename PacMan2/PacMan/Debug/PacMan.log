@@ -1,0 +1,8 @@
+﻿  PacMan.cpp
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(267,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(271,33): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(275,33): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(279,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(499,65): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\PacMan\PacMan.cpp(499,33): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PacMan.vcxproj -> C:\Users\SSLAB\source\repos\컴퓨터그래픽스\PacMan2\Debug\PacMan.exe
